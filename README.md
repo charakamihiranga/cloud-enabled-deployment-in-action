@@ -1,4 +1,21 @@
-# Cloud Enabled Deployment In Action with AWS
+# Cloud Enabled Deployment In Action
+
+This repository contains the practical assignment submission. The project includes three backend microservices built with Spring Boot and a React frontend. The backend infrastructure is deployed on **DigitalOcean** and containerized with **Docker**.
+
+---
+## Student Details
+- **Name:** Charaka Mihiranga
+- **Student Registration Number:** 2301682070
+- **Email Address:** charakavmihiranga@gmail.com
+
+---
+## 📹 Video Demonstration
+
+A short video demonstrating the live, deployed application can be found at the following link:
+
+**[Link to Video Demonstration](https://drive.google.com/file/d/1Rc432nl7MJ7EX3JMSdChyZZFrSpW3ujc/view)**
+
+---
 
 This repository contains four projects:
 

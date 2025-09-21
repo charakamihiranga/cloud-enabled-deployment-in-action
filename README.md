@@ -7,6 +7,7 @@ This repository contains the practical assignment submission. The project includ
 - **Name:** Charaka Mihiranga
 - **Student Registration Number:** 2301682070
 - **Email Address:** charakavmihiranga@gmail.com
+- **Contact:** 0715825704
 
 ---
 ## 📹 Video Demonstration
